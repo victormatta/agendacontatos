@@ -1,0 +1,44 @@
+body{
+    background-color: #ffffff;
+}
+
+.navbar-brand img{
+    width: 70px;
+    height: 70px;
+}
+
+#main-tittle {
+    text-align: center;
+    margin: 15px 0 30px;
+}
+
+#main-user {
+    text-align: center;
+    margin: 15px 0p 30px;
+}
+
+/* HOME */
+#contacts-table {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#contacts-table thead {
+    color: #FFF;
+    background-color: #007BFF;
+}
+
+#empty-list-text {
+    text-align: center;
+}
+
+#msg {
+    color: #155724;
+    background-color: #D4EDDA;
+    border: 1px solid #C3E6CB;
+    padding: 10px;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
